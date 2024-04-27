@@ -113,6 +113,79 @@ Se refiere a los fallos de tribunales judiciales que sirven como precedentes par
 
 <center>
 
-## Tema 2 - ?
+## Tema 2 - Estructura Constitucional
+
+</center>
+
+#### Concepto de Constitución
+
+La constitución de un país se puede ver desde dos perspectivas: la **formal** y la **material**.
+
+La formal se refiere al texto legal escrito físicamente y sancionado por una convención constituyente, que sirve como norma fundamental del ordenamiento jurídico.
+
+La material se refiere a la forma en que realmente funciona el sistema de poder del Estado, incluso si no existe una constitución formal. Comprende la jurisprudencia, acuerdos internacionales, textos legales y costumbres.
+
+Todos los estados poseen una constitución material, pero no todos una formal. En los casos que existan ambas, no necesariamente son iguales. A veces la material es más extensa que la formal o viceversa.
+
+La Const. Argentina se compone de 2 partes principales: parte dogmática (derechos de los ciudadanos) y parte orgánica (funcionamiento y estructura del Estado y gobierno).
+
+#### Principio de Supremacía Constitucional
+
+La supremacía constitucional implica que existe una jerarquía donde la Constitución está en el tope, expresando que todas las normas deben ajustarse y respetar a la Constitución, y aquellas que la contradigan o violen son inconstitucionales y por ende nulas.
+
+Para asegurar este principio y sancionar como nulas a las normas inconstitucionales existen diversos mecanismos de control que se clasifican de la siguiente manera:
+
+-   **Por el órgano que toma a cargo su control**: La autoridad para llevar a cabo el control puede ser política o judicial. Si es judicial puede ser difuso, donde cualquier juez puede declarar a una ley como inconstitucional, o concentrado, donde solo un único organo puede hacerlo.
+
+-   **Por las vias procesales**: La inconstitucionalidad de una norma puede ser puesta en discusión de forma directa, o de forma indirecta, donde surge como aspecto secundario de otra situación legal no relacionada.
+
+-   **Respecto a los efectos de la declaración**: Luego de que una norma se declara inconstitucional los efectos pueden ser limitados, es decir que solo afectan a las partes involucradas en ese caso, o amplios, afectando a todos los casos que regía esa norma.
+
+En Argentina, el control constitucional es exclusivamente judicial ya que la Const. misma prohibe al Ejecutivo intervenir en casos judiciales. Además, es difuso y sus efectos limitados.
+
+#### Garantías Constitucionales
+
+Las garantías constitucionales son mecanismos de protección jurídica de las personas frente al poder del Estado para evitar abusos y garantizar los derechos de los individuos.
+
+El Artículo 43 detalla 3 garantías fundamentales:
+
+-   **Habeas Corpus**: Garantiza que ninguna persona sea detenida o encarcelada sin motivo.
+
+-   **Amparo**: Permite a las personas proteger sus derechos fundamentales cuando estos consideran que están siendo vulnerados o amenazados de forma inminente. Es una garantía que actúa de forma inmediata y urgente.
+
+-   **Habeas Data**: Garantiza el derecho de cualquier persona a obtener toda la información existente sobre sí mismo y de solicitar su eliminación o actualización en caso de ser falsa o errónea.
+
+#### Forma de Gobierno
+
+Se trata del modo en que un gobierno ejerce el poder sobre la población sometida a su soberanía.
+
+En la actualidad existen 2 formas de gobierno: la monarquía y la república.
+
+-   **Monarquía**: Estado encarnado en la figura de una persona determinada (principe, rey, reina, etc).
+
+    -   Puede ser Constitucional, donde el monarca no ejerce el poder si no que solo lo representa.
+    -   Puede ser Absolutista, donde el monarca ejerce el poder y está exento de cualquier consecuencia legal por sus acciones.
+
+-   **República**: Mandato popular ejecutado por personas elegidas democráticamente como representantes, las que ejercen una magistratura periódica. Posee las siguientes características:
+    -   División de poderes: Poderes Ejecutivo, Legislativo, Judicial. Cada uno cumple un rol específico y se controlan y limitan mutuamente.
+    -   Principio de igualdad: Todas las personas tienen los mismos derechos básicos sin importar quienes sean ni cómo sean.
+    -   Temporalidad de los cargos: Renovación periódica de los cargos de gobierno.
+    -   Elección popular: El poder de los gobernantes proviene del mandato que la población les otorga.
+    -   Responsabilidad de los actos de gobierno: Los gobernantes se encuentran sujetos a las mismas leyes que todas las demás personas, a diferencia de la Monarquía Absolutista.
+    -   Publicidad de los actos de gobierno: Todas las leyes y reglamentos emanados por el gobierno deben ser de público conocimiento para la población.
+
+#### Forma del Estado
+
+Se trata de las posibles maneras en que el poder se distribuye en el espacio físico de un territorio.
+
+-   **Estado Unitario**: Poder único y central que delega en las administraciones locales una serie de funciones que le competen originalmente.
+
+-   **Estado Federal**: El Estado Nacional se configura en razón de la unión de estados locales más pequeños ya existentes, los cuales delegan en el poder central una serie menor o mayor de facultades.
+
+---
+
+<center>
+
+## Tema 3 - Hechos y Actos Jurídicos
 
 </center>
