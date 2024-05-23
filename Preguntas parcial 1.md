@@ -1,4 +1,4 @@
-# Aspectos generales de la ciencia jurídica
+<h1 align="center">Aspectos generales de la ciencia jurídica</h1>
 
 1. La ciencia jurídica comprende el conjunto organizado de normas emanadas por un órgano competente. **Verdadero.**
 2. El derecho real establece una relación entre dos personas. **Falso.**
@@ -29,7 +29,7 @@
 
 ---
 
-# Estructura constitucional
+<h1 align="center">Estructura constitucional</h1>
 
 1. El habeas corpus es
    a. Un derecho constitucional contra las detenciones arbitrarias
@@ -78,7 +78,7 @@
 
 ---
 
-# Voto
+<h1 align="center">Voto</h1>
 
 1. Cual son los requisitos comunes a todos los sistemas de sufragio segùn los pactos internacionales?
    a. La Universalidad, la Igualdad y la Transparencia
@@ -88,7 +88,7 @@
 
 ---
 
-# Hechos y actos jurídicos
+<h1 align="center">Hechos y actos jurídicos</h1>
 
 1. La intervención de un oficial público le da caracter a un instrumento cuando
    a. Lo realiza según la normativa y con las formalidades previstas para tal acto
@@ -184,7 +184,7 @@
 
 ---
 
-# Contratos generales
+<h1 align="center">Contratos generales</h1>
 
 1. Todo contrato tiene efectos respecto de terceros. **Falso.**
 2. El contrato se perfecciona con la aceptación de la oferta. **Verdadero.**
@@ -241,7 +241,7 @@
 
 ---
 
-# Contratos informáticos
+<h1 align="center">Contratos informáticos</h1>
 
 1. Un contrato informático es
    a. Un contrato sobre sistemas de información

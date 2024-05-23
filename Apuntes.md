@@ -1,14 +1,6 @@
-<center>
+<h1 align="center">Apuntes</h1>
 
-# Apuntes
-
-</center>
-
-<center>
-
-## Tema 1 - El derecho
-
-</center>
+<h2 align="center">Tema 1 - El derecho</h2>
 
 #### Concepto de derecho
 
@@ -111,11 +103,7 @@ Se refiere a los fallos de tribunales judiciales que sirven como precedentes par
 
 ---
 
-<center>
-
-## Tema 2 - Estructura Constitucional
-
-</center>
+<h2 align="center">Tema 2 - Estructura Constitucional</h2>
 
 #### Concepto de Constitución
 
@@ -184,21 +172,11 @@ Se trata de las posibles maneras en que el poder se distribuye en el espacio fí
 
 ---
 
-<center>
-
-## Tema 2.5 - Voto electrónico
-
-</center>
-
-...
+<h2 align="center">Tema 2.5 - Voto electrónico</h2>
 
 ---
 
-<center>
-
-## Tema 3 - Hechos y Actos Jurídicos
-
-</center>
+<h2 align="center">Tema 3 - Hechos y Actos Jurídicos</h2>
 
 #### Hechos jurídicos
 
@@ -301,8 +279,34 @@ Personas jurídicas privadas:
 
 ---
 
-<center>
+<h2 align="center">Tema 4 - Contratos</h2>
 
-## Tema 4 - Contratos
+---
 
-</center>
+<h2 align="center">Tema 5 - Contratos informáticos</h2>
+
+---
+
+<h2 align="center">Tema 6 - Propiedad intelectual</h2>
+
+---
+
+<h2 align="center">Tema 7 - Licenciamiento de uso</h2>
+
+---
+
+<h2 align="center">Tema 8 - Derecho de Internet</h2>
+
+---
+
+<h2 align="center">Tema 9 - Bancos de datos</h2>
+
+---
+
+<h2 align="center">Tema 10 - Delitos informáticos</h2>
+
+---
+
+<h2 align="center">Tema 11 - Gobierno TI</h2>
+
+---
