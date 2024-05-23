@@ -310,7 +310,7 @@
 
 ---
 
-# Propiedad intelectual
+<h1 align="center">Propiedad intelectual</h1>
 
 1. El dominio publico implica que los derechos de explotación económica terminan. **Verdadero.**
 2. El software se protege mediante la ley de patentes de invención. **Falso.**
