@@ -60,6 +60,32 @@
 
 <h1 align="center">Bancos de datos</h1>
 
+1. Cual de los siguientes datos NO se encuentra dentro del ámbito de aplicación de la ley de Bancos de Datos
+   a. Los datos médicos
+   b. Los datos de identidad mínimos de una persona
+   c. Los datos estadísticos
+   **c.**
+2. La obligación de recabar los datos personales previa autorización de su titular, esta vinculada a que principio
+   a. La licitud y la buena fé
+   b. La confidencialidad
+   c. La calidad de los datos
+   **a.**
+3. Cual es el sistema de la ley de bancos de datos respecto la responsabilidad administrativa
+   a. No dice nada
+   b. Establece cuales son las sanciones y delega en la autoridad de aplicación definir cuales son las conductas prohibidas
+   c. Establece las conductas prohibidas y sus respectivas sanciones
+   **b.**
+4. Los datos sensibles
+   a. Están fuera del ámbito de aplicación de la ley
+   b. Pueden ser tratados siempre que exista un consentimiento informado del titular de los datos
+   c. Salvo excepciones no pueden ser recogidos ni tratados
+   **c.**
+5. Cual de las siguientes hipótesis es una excepción a la obligación de autorización para recabar los datos?
+   a. La contratación de un servicio que necesite acceder a estos datos para ser cumplido
+   b. La renuncia anticipada del titular de los datos
+   c. Que la conducta del titular de los datos permite inferir que autoriza la recolección
+   **a.**
+
 ---
 
 <h1 align="center">Delitos informáticos</h1>
