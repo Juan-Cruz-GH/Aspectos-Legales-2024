@@ -25,6 +25,11 @@
    b. Una licencia GNU que se utiliza para librerías
    c. Una versión reducida de la GPL
    **b.**
+6. Una licencia no propietaria se encuentra definida por
+   a. La utilización de la licencia GPL
+   b. El carácter gratuito del contrato
+   c. El acceso en el código fuente
+   **c?**
 
 ---
 
@@ -89,6 +94,32 @@
 ---
 
 <h1 align="center">Delitos informáticos</h1>
+
+1. Cuál es la regulación actual de la tenencia de p\* infantil en la Republica Argentina
+   a. Se penaliza la tenencia simple y la tenencia con fines de distribución
+   b. Se criminaliza la tenencia con fines de distribución
+   c. Se aplica la misma pena que la distribución y producción del material
+   **a.**
+2. La destrucción negligente de datos de un sistema esta penada como
+   a. No esta penada. El delito de daño siempre implica dolo
+   b. Como una figura atenuada (menos pena) del daño
+   c. A los efectos de la figura no importa si se produjo por dolo o culpa
+   **a.**
+3. Una estafa informática implica
+   a. Un engaño producido por medios informáticos
+   b. La obtención de los datos de una persona mediante técnicas de ingeniería social
+   c. La modificación del funcionamiento del sistema
+   **c.**
+4. Al momento de la sanción de la ley, la aplicación WhatsApp no existía. Si una persona interfiere con dichos mensajes comete un delito?
+   a. Si porque el tipo penal refiere a toda comunicación electronica
+   b. Si, porque por analogía se amplia a los servicios similares pero no previstos en el texto
+   c. No, porque no esta previsto en la ley
+   **a.**
+5. El phishing esta previsto en el código como  
+   a. Una forma de estafa
+   b. Una forma de hurto
+   c. No esta previsto en el código
+   **c.**
 
 ---
 
