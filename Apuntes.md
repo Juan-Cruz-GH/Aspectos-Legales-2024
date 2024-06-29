@@ -700,6 +700,136 @@ También es común hoy en día utilizar criptoactivos, que son una red autónoma
 
 <h1 align="center">Tema 9 - Bancos de datos</h1>
 
+## Regimen legal de los bancos de datos
+
+### Concepto
+
+Un dato es aquella porción de información destinada a su transmisión a los terceros. Además del papel, un dato se puede expresar mediante audio, video o información digital.
+
+La digitalización de los bancos de datos mediante tecnologías informáticas permite no solo **el acceso de la propiedad de un banco de datos a personas que anteriormente no podían ser titulares de una**, sino, y lo que es más importante, **la explotación en forma económicamente rentable de dicha información**.
+
+### Privacidad (artículo 19)
+
+La Constitución Nacional de Argentina refleja el principio de privacidad en el artículo 19, que dice que `las acciones privadas de las personas están exentas de la autoridad del Estado, siempre que no perjudiquen a terceros ni ofendan la moral pública.` Este artículo busca limitar la intervención del Estado en la vida privada.
+
+La Corte Suprema de Argentina ha interpretado este artículo en diversos casos:
+
+1. Caso Bazterrica (1986): La Corte declaró inconstitucional la penalización del consumo personal de drogas en público, afirmando que no perjudicaba a terceros.
+2. Caso Montalvo (1990): La Corte cambió su postura y penalizó el consumo de drogas en público, argumentando que el mero ejemplo podía dañar a terceros.
+3. Caso Ponzetti de Balbin (1984): La Corte protegió la privacidad del líder político Ricardo Balbin al condenar la publicación de fotografías de sus últimos momentos de vida. Este caso amplió la protección del artículo 19 a acciones de particulares, no solo del Estado.
+
+### Artículo 1071 bis
+
+Este artículo protege contra la intromisión arbitraria en la vida privada, permitiendo acciones legales contra publicaciones no consentidas de imágenes, correspondencia, costumbres, etc.
+
+### Habeas Data
+
+La reforma constitucional de 1994 introdujo el "habeas data" en el artículo 43. Esta garantía permite a cualquier persona conocer, corregir o eliminar datos personales en registros públicos o privados destinados a proveer informes. Se diferencia del amparo en que no requiere el agotamiento de otros recursos legales previamente.
+
+### Ley 25.326 de Protección de Datos Personales
+
+-   La ley protege los datos personales en archivos, registros, bancos de datos, tanto públicos como privados, destinados a proveer informes.
+-   Se refiere a cualquier actividad realizada sobre estos datos para evitar daños por mal uso de la información.
+-   Incluye definiciones amplias y tecnológicamente neutrales para abarcar cualquier medio de almacenamiento y recuperación de datos.
+-   Las Bases de datos de uso particular, periodísticas, datos disociados (imposibles de identificar), y ciertas bases de datos reguladas por leyes específicas están exentas de la ley.
+-   La ley define al responsable del banco de datos como el titular del archivo o base de datos, aunque también considera a usuarios y cesionarios de datos como responsables.
+-   Usuarios son personas o entidades que tratan datos a su arbitrio, como empresas tercerizadas. Cesionarios son terceros que reciben los datos del titular y son solidariamente responsables por los daños.
+-   El beneficiario es el titular de los datos personales.
+-   Aunque no se considera una relación de propiedad sobre los datos, la ley protege varios aspectos de la persona, incluyendo su nombre, identidad, imagen y prestigio.
+-   El bien jurídico protegido es:
+    -   Derecho de las personas a controlar la información sobre ellos mismos.
+    -   La intimidad, la identidad, la imagen personal y el prestigio, con contenido económico y no solo la privacidad tradicional.
+
+Los datos personales son información sobre personas físicas o jurídicas. Excluye datos meteorológicos o cosas que no tengan referencias a personas. Los datos personales se clasifican en 3 tipos:
+
+1. **Datos de acceso público/datos mínimos de identificación**: son datos que no requieren consentimiento. Por ejemplo DNI, nombre, apellido, ocupación, etc.
+2. **Datos de acceso restringido**: son datos que necesitan cumplir con los principios que establece la ley. Por ejemplo número de telefono o dirección de la propiedad.
+3. **Datos sensibles**: son datos íntimos que pueden generar discriminación, por ende se prohibe su recopilación excepto ciertas excepciones que involucren el consentimiento. Por ejemplo origen racial, sexualidad, opiniones políticas, etc.
+
+Los datos sensibles pueden ser recabados en ciertos casos especiales:
+
+1. Registros policiales o de inteligencia.
+2. Iglesias, partidos políticos, asociaciones sindicales.
+3. Datos disociados (anónimos) con fines estadísticos.
+4. Profesionales de la salud con restricciones legales y éticas.
+
+### Principios generales de recolección y tratamiento de la información
+
+#### Principio de licitud
+
+La ley de bases de datos establece que la recolección de datos debe ser legal y justa. No se pueden usar métodos desleales o fraudulentos para recolectar datos. Además, los datos no pueden ser tratados sin el **consentimiento** expreso e informado del titular. Es obligatorio no solo pedir este consentimiento, sino también informar a los titulares sobre **cómo se tratarán sus datos**, incluyendo detalles sobre la base de datos, el propósito de la recolección y si los datos se compartirán con terceros.
+
+#### Principio de calidad
+
+El responsable de una base de datos debe asegurarse de que la información almacenada sea adecuada, actualizada y completa según los objetivos de la base de datos. Los datos deben ser **precisos y actualizados**, y es responsabilidad del titular de la base **corregir cualquier dato falso o desactualizado**. Además, los datos deben protegerse para que terceros puedan verificar el cumplimiento de las obligaciones legales.
+
+#### Principio de pertinencia
+
+La recolección de datos debe ser relevante y adecuada para el propósito declarado. **No se puede usar la información recolectada para fines diferentes a los expresados inicialmente**. Este principio está vinculado al requisito del consentimiento informado. La información proporcionada al titular de los datos debe ser vinculante para el recolector, es decir, **no se puede cambiar el propósito del uso de los datos después de haber sido recolectados**. La ley establece que los datos recolectados no pueden ser utilizados para fines diferentes a los que motivaron su obtención.
+
+#### Principio de confidencialidad
+
+El principio de confidencialidad obliga a mantener en **secreto** la información contenida en la base de datos, incluso aquella que se recibe durante el tratamiento documental. Todos los que participan en la explotación de los datos, independientemente de su función, deben mantener la confidencialidad si han tenido acceso a los datos. Sin embargo, este principio tiene **excepciones, como cuando hay una autorización judicial o razones de seguridad pública, defensa nacional o salud pública.**
+
+#### Consentimiento
+
+La ley regula el consentimiento tanto para el tratamiento de los datos como para su cesión. Es obligatorio obtener el **consentimiento del titular de los datos, el cual debe ser libre, expreso e informado**. Este consentimiento debe ser por escrito, claro y destacado, especialmente en contratos de adhesión. La ley también permite la autorización en forma digital, equiparando el documento digital al soporte papel. El titular de los datos debe conocer la finalidad de la base de datos, la identidad de los responsables y los posibles cesionarios, así como los derechos de control, rectificación y salida.
+
+Excepciones a la necesidad de autorización previa incluyen datos de fuentes de acceso público, datos requeridos por una función estatal, datos mínimos de identidad (como nombre, domicilio, fecha de nacimiento, documento de identidad, ocupación e identificación tributaria), datos derivados de relaciones contractuales, científicas o profesionales anteriores, y operaciones de entidades financieras.
+
+#### Cesión de datos a terceros
+
+Para ceder datos a terceros, se deben cumplir una serie de requisitos. Tanto el cedente como el cesionario deben cumplir con los principios de legalidad, calidad y pertinencia. Se necesita un consentimiento específico para la cesión, el cual debe ser claro y por escrito. Excepciones a esta necesidad incluyen autorizaciones legales, cesiones entre organismos del estado dentro de sus competencias, datos relativos a la salud pública y datos disociados.
+
+#### Obligación de inscripción
+
+La ley exige que las bases de datos se inscriban en un registro estatal para posibilitar su control. La falta de inscripción es una violación sancionable. La información requerida para la inscripción incluye nombre y domicilio del responsable, características y finalidades del archivo, naturaleza de los datos, forma de recolección, destino de los datos, forma de tratamiento, medidas de seguridad, tiempo de conservación y formas de acceso y control por parte del titular de los datos.
+
+La autoridad de aplicación tiene la obligación de actuar de oficio en casos de ilegalidad manifiesta y no puede autorizar bancos de datos que contradigan claramente la normativa. Sin embargo, esto no implica una autorización previa discrecional, sino una aplicación del principio de legalidad en la administración pública.
+
+### Derechos del titular de los datos
+
+1. **Derecho de información**: las personas deben dar su consentimiento sobre el uso de sus datos, y además tienen derecho a saber qué bancos de datos existen, con qué fines y quiénes son sus responsables.
+2. **Derecho de acceso**: las personas deben poder pedir acceder a sus datos en un banco de datos, y si el administrador no responde en 10 días se puede iniciar una causa de violación de habeas data.
+3. **Derecho de rectificación**: las personas deben poder pedir que se modifiquen datos falsos o erróneos, borrar datos inadecuados, actualizar datos viejos, y añadir información faltante. El titular tiene 5 días para responder.
+
+## Responsabilidad por Banco de Datos
+
+### Introducción
+
+La gestión de un banco de datos y, en particular la violación de los principios contenidos en la ley, puede conllevar responsabilidades entres tres diferentes áreas: **administrativa, civil y penal**. Dichas responsabilidades pueden actuar en conjunto o por separado, de forma tal que un hecho determinado puede determinar la aplicación de sanciones en uno o todas las áreas mencionadas.
+
+### Responsabilidad administrativa
+
+La responsabilidad administrativa se refiere a las sanciones impuestas por autoridades de control cuando se incumplen las normativas sobre protección de datos personales. Estas normativas generalmente buscan asegurar la correcta recolección, almacenamiento, uso y transferencia de datos personales. Las infracciones administrativas pueden ser clasificadas según su gravedad en **leves, graves y muy graves**.
+
+1. **Infracciones leves**: Pueden incluir el incumplimiento de obligaciones de información al titular de los datos o la falta de respuesta a solicitudes de acceso, rectificación o cancelación de datos dentro del plazo legal. Las sanciones suelen ser **apercibimientos o multas menores**.
+
+2. **Infracciones graves**: Entre ellas se encuentran la recolección de datos sin el consentimiento adecuado del titular, la falta de medidas de seguridad apropiadas para proteger los datos, o el incumplimiento de las obligaciones de registro y notificación de los bancos de datos. Las sanciones pueden incluir **multas más altas, la suspensión temporal del banco de datos, o la prohibición de continuar con el tratamiento de los datos**.
+
+3. **Infracciones muy graves**: Estas incluyen la transferencia internacional de datos a países que no proporcionan un nivel adecuado de protección sin la autorización correspondiente, el uso de datos personales para fines distintos a los autorizados, o la repetición de infracciones graves. Las sanciones pueden ser muy severas, incluyendo **multas significativas, la clausura definitiva del banco de datos, y la publicación de la infracción para informar al público**.
+
+### Responsabilidad civil
+
+La responsabilidad civil busca resarcir los daños causados a los titulares de los datos por el manejo indebido de sus datos personales. Se divide en responsabilidad contractual y extracontractual.
+
+1. **Responsabilidad contractual**: Ocurre cuando existe un contrato entre el titular de los datos y el gestor del banco de datos. El gestor es responsable de cumplir con las obligaciones estipuladas en el contrato, como la protección de los datos y su uso adecuado. Si el gestor incumple estas obligaciones, y esto resulta en un daño al titular de los datos, puede ser obligado a indemnizar los daños. Ejemplos de incumplimiento contractual pueden incluir la divulgación no autorizada de datos o la falta de medidas de seguridad prometidas en el contrato.
+2. **Responsabilidad extracontractual**: Se aplica cuando no existe un contrato directo entre las partes. Esta responsabilidad puede surgir de actos ilícitos que causen daño, como la recolección de datos sin consentimiento o la divulgación no autorizada de datos. En muchos sistemas legales, la responsabilidad extracontractual en el contexto de protección de datos tiende a ser objetiva, lo que significa que el gestor del banco de datos es responsable del daño causado, independientemente de la existencia de culpa o dolo, salvo que pueda demostrar la existencia de alguna causal eximente como fuerza mayor.
+
+#### Rubros de la indemnización
+
+-   Daño emergente → todos los gastos que se tuvieron que realizar por culpa del delito
+-   Lucro cesante → dinero que se dejó de ganar por culpa del delito
+-   Valor marca → daños a la imagen o reputación por culpa del delito
+-   Daño moral → el más grave de todos. Incluye sufrimientos personales de la víctima por culpa del delito. La víctima puede pedir el monto $$$ que quiera al juez, y éste decide cuánto darle.
+
+### Responsabilidad penal
+
+La responsabilidad penal se refiere a las sanciones impuestas por el sistema judicial penal por conductas que constituyen delitos en el manejo de datos personales. Estas sanciones buscan castigar y disuadir conductas que atenten gravemente contra la privacidad y seguridad de los datos.
+
+1. **Inserción de datos falsos**: Según el artículo 117 bis del Código Penal, se sanciona con prisión de **un mes a dos años** a quien inserte o haga insertar a sabiendas datos falsos en un archivo de datos personales. La pena puede aumentar si del hecho se deriva un perjuicio a alguna persona. Para funcionarios públicos, la pena incluye la inhabilitación para ejercer su cargo si cometen el delito en el ejercicio de sus funciones.
+2. **Acceso ilegítimo y revelación de información**: El artículo 157 bis del Código Penal sanciona con prisión de un mes a dos años a quien acceda ilegítimamente a un banco de datos personales, o revele información que debe mantener en secreto por disposición legal. Este delito incluye la violación de sistemas de confidencialidad y seguridad, y es considerado un delito de peligro, lo que significa que no es necesario que se produzca un daño real para que exista responsabilidad penal.
+
 ---
 
 <h1 align="center">Tema 10 - Delitos informáticos</h1>
