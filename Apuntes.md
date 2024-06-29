@@ -476,6 +476,226 @@ El contrato de escrow de código fuente surge para resolver el problema de depen
 
 <h1 align="center">Tema 8 - Derecho de Internet</h1>
 
+## La Internet
+
+### Introducción
+
+La Internet es una libre asociación de miles de redes y millones de computadoras alrededor del mundo que trabajan juntas para compartir información.
+
+Originalmente el esquema usado por las redes informáticas era el de Mainframe, donde una computadora central alimentaba a las distintas terminales "tontas" que no podrían funcionar sin que el Mainframe les diga qué hacer. Debido a que este esquema posee un **_single point of failure_** se volvió obsoleto.
+
+El esquema Mainframe fue reemplazado, en la Internet, por uno basado en una red descentralizada: cada uno de los nodos de la red actúa como un servidor y la información no está contenida toda en un solo lugar; y redundante: las conexiones entre los distintos elementos no son únicos si no que pueden ser reemplazados por otras rutas de conexión, y por ende la caída de uno o más servidores no impide necesariamente el acceso a la información.
+
+### Internet vs World Wide Web
+
+La Internet constituye una red global de computadoras de carácter descentralizado. La WWW, en cambio, es un subconjunto de la Internet que involucra a todos los documentos que trabajan utilizando HTTP.
+
+## Efectos jurídicos de la Internet
+
+### Introducción
+
+Inicialmente, la Internet era un lugar basado en un modelo de cooperación e intercambio de información entre los distintos usuarios de la red, y era ausente de derecho. Sin embargo, esto cambió a través del tiempo y hoy en día hay infinidad de efectos jurídicos que se producen en Internet.
+
+### Control sobre Internet: la Sociedad de Internet
+
+La Sociedad de Internet es una organización no gubernamental, sin nacionalidad definida, sin fines de lucro y formada por organizaciones de 165 países. Se ocupa de elaborar políticas y prácticas para ser adoptadas en la red y supervisar el trabajo de las organizaciones, grupos de tareas, que trabjan en las decisiones políticas de la red.
+
+Algunas de las organizaciones que forman parte de la Sociedad son:
+
+1. IAB: Junta de Arquitectura de Internet
+    1. IANA: Autoridad de Asignación de Numeros de Internet
+    2. IEFT: Grupo de trabajo de Ingeniería de Internet
+    3. IESG: Grupo de dirección de Ingeniería de Internet
+2. IRFT: Grupo de Trabajo de Investigación de Internet
+3. ISTF: Grupo de Trabajo Social de Internet
+
+### Problema de la jurisdicción en Internet
+
+Internet facilita el libre intercambio de información a nivel mundial. Sin embargo, la irrupción de emprendimientos comerciales y la masificación de la World Wide Web han generado una serie de problemas relacionados con actos ilícitos e incumplimientos contractuales en el entorno digital. Cualquier acto jurídico realizado en la red **puede involucrar a participantes ubicados en diferentes países**, y los servidores donde se realiza la interacción pueden estar situados en lugares distintos, lo que complica la determinación de la legislación y las leyes que deberían aplicarse.
+
+Es común que los contratos celebrados por Internet incluyan cláusulas que definan la jurisdicción y la normativa aplicable. Sin embargo, estos contratos suelen ser de **adhesión**, lo que conlleva el riesgo de ser considerados nulos si se percibe un beneficio injustificado para una de las partes. Además, esta solución no aborda adecuadamente los casos de actos ilícitos. Por otro lado, considerar el domicilio del servidor para determinar la jurisdicción presenta problemas, como la posibilidad de crear "servidores de conveniencia" que trasladan la jurisdicción a territorios más favorables para el prestador del servicio.
+
+Otorgar la jurisdicción al territorio del reclamante también tiene sus inconvenientes, ya que somete a empresas y particulares a riesgos de enfrentarse a regímenes jurídicos diversos sin posibilidad de control. En Argentina, los conflictos relacionados con Internet han sido mayormente sobre la titularidad de nombres de dominio, sin llegar a sentencias definitivas. En Estados Unidos, los tribunales han desarrollado la doctrina del "**Long Arm**" para abordar estos problemas, aunque no se ha alcanzado una solución definitiva.
+
+La doctrina del "Long Arm" permite ejercer jurisdicción personal sobre no residentes que cometan actos delictivos fuera del estado causando daños dentro del estado. Un ejemplo ilustrativo es el caso "American Network Inc. C/Access America", donde un proveedor de Internet de Nueva York demandó a otro de Georgia por violación de marca. El tribunal de Nueva York aceptó la jurisdicción basándose en que el daño fue previsible y el demandado obtuvo beneficios de sus actividades en Nueva York. La regla del "Long Arm" establece que la Corte puede ejercer jurisdicción personal sobre cualquier no residente que cause daños dentro del estado si es previsible y obtiene un beneficio sustancial del comercio interestatal o internacional.
+
+## Responsabilidad civil en Internet
+
+### Introducción
+
+Entre el emisor de un mensaje en internet y su receptor podemos encontrar muchos sujetos jurídicos intermediarios. Debido a esto, cuando existe algun problema legal, hay inconvenientes a la hora de determinar el grado y naturaleza de la responsabilidad de los intervinientes en el hecho. A continuación se analizan los distintos intervinientes en el proceso de envío y su responsabilidad.
+
+### Proveedores de acceso a Internet
+
+Los proveedores de acceso son los sujetos jurídicos que prestan la infraestructura técnica para que los proveedores del servicio de Internet ofrezcan su servicio.
+
+En razón de su función, los proveedores **carecen de control y acceso a los contenidos que circulan por la web, por lo que no podría reputárselos responsables civiles de los mismos**. En este sentido, Pablo Bolotnikoff los asimila a las empresas prestatarias del servicio telefónico, ya que no tienen la culpa si se comete un crimen por medio de un teléfono.
+
+### Servicios de Caching
+
+El servicio de caching almacena en forma automática, provisional y temporaria cierta información con el único fin de que sea más eficaz la transmisión de la misma en pedidos subsecuentes.
+
+**En principio carecen de control sobre el contenido de almacenado, por lo que se les debe eximir de responsabilidad**. Este es el principio establecido por artículo 13 de la Directiva Europea de Comercio Electrónico 200/31:
+
+`Los Estados miembros garantizarán que, cuando se preste un servicio de la sociedad de la información consistente en transmitir por una red de comunicaciones datos facilitados por el destinatario del servicio, el prestador del servicio no pueda ser considerado responsable del almacenamiento automático, provisional y temporal de esta información, realizado con la única finalidad de hacer más eficaz la transmisión ulterior de la información a otros destinatarios del servicio`
+
+Sin embargo, es posible que el proveedor de caching tenga acceso al contenido o capacidad para controlarlo o modificarlo. **En tales casos la eximente de responsabilidad desaparece**, criterio sustentado por las excepciones contendidas en la segunda parte del art. 13 de la directiva 2000/31.
+
+### Proveedor de contenido
+
+Un proveedor de contenido es alguien que pone archivos en la web para que los usuarios puedan acceder a ellos. Hay dos tipos de proveedores de contenido: los que crean su propio contenido y los que enlazan a contenido de otros. La responsabilidad del proveedor es clara cuando crean su propio contenido, ya que son los autores. Pero, cuando enlazan a contenido de otros, la cosa se complica.
+
+Los proveedores pueden referir a material de terceros a través de hyperlinks que llevan a otras páginas web. Esas páginas, a su vez, pueden tener más links a otros sitios, creando una cadena de referencias. Así, hay contenido indirecto de primer nivel (el acceso directo desde la página original) y de segundo nivel (acceso desde la página enlazada).
+
+En cuanto a la responsabilidad, los proveedores de contenido deben responder por los contenidos de primer nivel. Aunque no sean los autores, voluntariamente vinculan su sitio a ese contenido, permitiendo que otros accedan a él. Sin embargo, responsabilizarlos por contenidos de segundo nivel parece excesivo, ya que no tienen control o conocimiento directo sobre ellos.
+
+### Proveedores de servicio de Internet
+
+Un proveedor de servicio de Internet (ISP) es una entidad que permite a los usuarios acceder a Internet y, a menudo, ofrece servicios de hosting, lo que permite a los usuarios publicar contenido en la web. Es importante entender la naturaleza legal de esta actividad porque existen diferentes opiniones sobre la responsabilidad de los ISP por el contenido ilegal que a menudo se distribuye a través de sus servicios.
+
+Una opinión sostiene que los ISP son como editores, ya que proporcionan el soporte necesario para que los autores publiquen contenido y tienen influencia en su producción. **Según esta visión, los ISP serían directamente responsables del contenido que publican**, al igual que los editores.
+
+Otra perspectiva compara a los ISP con los dueños de librerías, señalando que es imposible controlar toda la información que los usuarios suben a los servidores. Esta última postura es la que prevalece en el derecho comparado. Por ejemplo, la Directiva Europea 2000/31 establece que los proveedores de hosting **no son responsables mientras no tengan conocimiento efectivo de actividad ilegal**. De manera similar, la Communications Decency Act de Estados Unidos **otorga inmunidad a los proveedores de hosting** en su sección 230, negando que sean considerados editores.
+
+**Los tribunales han determinado que los ISP solo son responsables si, sabiendo de la actividad ilegal, no toman las medidas necesarias para detenerla**. Por ejemplo, la Corte Suprema del Estado de Nueva York encontró culpable a BUFFNET, un ISP en Búfalo, por no actuar tras ser notificado de que uno de sus newsgroups distribuía pornografía infantil. Además, en el caso Fair Housing Council Of San Fernando Valley v Roommates.com, una corte federal de apelaciones responsabilizó a un sitio web por el contenido subido por sus usuarios, considerando que el sitio asumía el rol de editor y debía responder por los daños causados por la actividad ilegal de sus usuarios.
+
+### Situación en Argentina: caso Jujuy.com
+
+El primer antecedente de responsabilidad de un ISP fue dictado por Camara en lo Civil y Comercial de la provincia de Jujuy cuando la empresa Jujuy digital operaba el dominio Jujuy.com, en cuyo foro se publicó en forma anónima un mensaje respecto de la supuesta infidelidad de los actores. Este mensaje fue retirado luego de que el sitio recibiera intimación por carta documento, circunstancia que fue considerada un conducta omisiva por el tribunal y un reconocimiento de la actividad ilícita.
+
+En sus considerandos el tribunal entendió que una vez demostrada la existencia del daño, la responsabilidad surgía en forma clara de la aplicación del art. 1113 del código civil. En esta inteligencia sostiene la analogía con la energía en cuanto al material riesgoso, considerando procedente la responsabilidad objetivo de los codemandados por los daños producidos.
+
+El fallo merece una serie de críticas:
+
+1. La aplicación de los criterios de responsabilidad objetiva aparecen apartados de la legislación y jurisprudencia comparada, creando un posible riesgo jurídico para las empresas que prestan servicios de hosting o simplemente permiten a los usuarios expresar una opinión.
+2. La analogía utilizada no aparece como la más feliz. El análisis realizado establece un doble estándar de responsabilidad según si el mensaje fue realizado mediante un medio tradicional o vía web, ignorando el hecho que el daño se produce por la existencia del mensaje y no por la utilización de la herramienta informática.
+
+### Caso Belén Rodriguez
+
+El caso de Belén Rodríguez en Argentina estableció un precedente importante en cuanto a la responsabilidad de los buscadores de Internet. Los buscadores, como Google, pueden ser considerados responsables por la indexación y difusión de contenidos que resulten lesivos a la privacidad y honor de las personas.
+
+Factores de Imputación: En la doctrina, hay dos enfoques principales sobre la responsabilidad de los buscadores:
+
+-   Imputación Objetiva: Basada en el riesgo creado por el buscador al indexar y difundir contenidos. Este enfoque podría implicar una responsabilidad más estricta para los buscadores, independientemente de su intención o negligencia.
+-   Responsabilidad Subjetiva: Basada en la negligencia del buscador en controlar o actuar sobre los contenidos lesivos. Este enfoque requiere demostrar que el buscador actuó de manera negligente al no remover contenidos perjudiciales tras recibir una solicitud.
+
+Los buscadores tienen la obligación de actuar con diligencia para eliminar enlaces a contenidos dañinos, **especialmente cuando reciben una solicitud formal y específica de la persona afectada**. Este caso subraya la necesidad de que los buscadores equilibren el derecho a la libertad de expresión con la protección de la privacidad y el honor de las personas, actuando con rapidez para remover contenidos perjudiciales.
+
+Además, este caso ha impulsado el debate sobre la regulación de la responsabilidad de intermediarios en el ámbito digital y ha sentado un precedente legal en Argentina para futuros casos similares.
+
+## Firma digital
+
+### Concepto
+
+La firma digital es un método avanzado de autenticación que permite verificar la autoría e integridad de un documento digital. En el contexto del derecho, asegura la identidad del firmante y la inalterabilidad del mensaje, algo que tradicionalmente se lograba con la firma manuscrita.
+
+### Aspectos técnicos
+
+La firma digital utiliza métodos criptográficos para garantizar la autenticidad y seguridad de los documentos electrónicos. Los métodos técnicos más comunes para la autenticación de documentos digitales son:
+
+1. **Código de ingreso (PIN)**: Un número de identificación personal utilizado junto con una tarjeta magnetizada.
+2. **Métodos biométricos**: Utilizan características físicas únicas, como huellas digitales, retina o reconocimiento de voz, para identificar a una persona.
+3. **Métodos criptográficos**: Utilizan algoritmos matemáticos para cifrar y descifrar mensajes, asegurando la identidad del remitente y la integridad del mensaje.
+
+#### Criptografía
+
+La criptografía es fundamental para la firma digital. A través de algoritmos matemáticos, permite cifrar un mensaje con una clave privada que solo el remitente conoce. Este mensaje cifrado puede ser verificado por el receptor utilizando la clave pública del remitente. Este proceso asegura que solo el poseedor de la clave privada pudo haber enviado el mensaje. Existen 2 tipos de criptografía:
+
+1. **Criptografía simétrica**: Utiliza una sola clave para cifrar y descifrar el mensaje. Es menos segura porque la clave debe ser compartida entre emisor y receptor.
+2. **Criptografía asimétrica**: Utiliza un par de claves, una pública y otra privada. La clave pública puede ser distribuida libremente, mientras que la privada se mantiene en secreto. Este método es más seguro porque no requiere que las claves se compartan.
+
+#### Algoritmo de hash
+
+El algoritmo de hash produce un número único a partir de un mensaje. Cualquier cambio en el mensaje resulta en un número de hash diferente, lo que permite detectar alteraciones. El hash se cifra con la clave privada del emisor y se envía junto con el mensaje. El receptor puede recalcular el hash del mensaje recibido y compararlo con el hash cifrado para verificar la integridad del mensaje.
+
+### Firma digital en el ordenamiento argentino
+
+En Argentina, la ley 25.506 regula la firma digital y electrónica. Define la firma digital como:
+
+`Resultado de aplicar un procedimiento matemático a un documento digital que requiere información exclusiva del firmante y que está bajo su control absoluto.`
+
+La firma digital debe ser verificable por terceros y debe permitir identificar al firmante y detectar cualquier alteración posterior al documento.
+
+### Firma electrónica
+
+La ley 25.506 también define la firma electrónica como un conjunto de datos electrónicos que identifican al firmante pero no cumplen todos los requisitos para ser considerados firma digital. La firma electrónica es menos segura que la firma digital, pero aún así puede ser utilizada para identificar a una persona en un mensaje electrónico.
+
+### Validez jurídica
+
+El artículo 3 de la ley 25.506 equipara la firma digital a la manuscrita en cuanto a su validez jurídica. Esto significa que cualquier documento firmado digitalmente tiene la misma validez legal que un documento firmado a mano, siempre y cuando se cumplan los requisitos establecidos por la ley.
+
+### Documento digital
+
+La ley define el documento digital como la representación digital de actos o hechos, independientemente del soporte utilizado para su fijación, almacenamiento o archivo. Los documentos digitales pueden ser considerados pruebas documentales siempre que su conservación y lectura sean accesibles y se pueda establecer su origen, destino, fecha y hora de recepción.
+
+### Certificado digital
+
+Es un documento digital emitido por un certificador licenciado que vincula los datos de verificación de firma a su titular. Es esencial para garantizar la identidad del remitente y la validez del mensaje. Los certificadores deben cumplir con una serie de requisitos y procedimientos para emitir y controlar certificados digitales, asegurando así la confianza en las firmas digitales.
+
+### Certificadores licenciados
+
+Son entidades autorizadas para emitir certificados digitales. Deben cumplir con los requisitos legales y técnicos establecidos por la ley y obtener una licencia para operar. Estos certificadores tienen la responsabilidad de emitir, controlar y, en caso necesario, revocar los certificados digitales.
+
+### Conclusión
+
+**La firma digital es una herramienta poderosa que asegura la autenticidad y la integridad de los documentos electrónicos, ofreciendo una alternativa segura a la firma manuscrita en el entorno digital. La legislación argentina, a través de la ley 25.506, establece un marco legal claro y detallado para su uso, diferenciando entre firma digital y firma electrónica y regulando los procedimientos para la emisión y control de certificados digitales.**
+
+## Comercio electrónico
+
+### Introducción
+
+El Ministerio de Economía de la Nación, define al comercio electrónico como:
+
+`Conjunto de transacciones comerciales y financieras realizadas por medios electrónicos. Esto es el procesamiento y la transmisión electrónica de datos, incluyendo texto, sonido e imagen.`
+
+En función de la definición se incluirían dentro del concepto no solo las transacciones comerciales sino también cualquier negocio jurídico como la publicidad, edición o cualquier otro servicio.
+
+Otros autores entienden que el concepto debe restringirse a aquellas hipótesis en donde las transacciones económicas se producen mediante la utilización de redes de computadoras abiertas o cerradas. En tal sentido, Luz Clara define al comercio electrónico como:
+
+`Cualquier forma de transacción o intercambio de información comercial, basada en la transmisión de datos sobre redes de comunicación como Internet`
+
+Por último, es posible restringir el concepto de comercio electrónico a **las operaciones comerciales llevadas a cabo mediante la Internet**.
+
+### Contratos electrónicos
+
+El contrato informático puede ser definido como todo contrato en el que la oferta y la aceptación se transmiten por medio de equipos electrónicos de tratamiento y almacenamiento de datos, conectados a una red de telecomunicaciones.
+
+Estos contratos se pueden clasificar:
+
+1. **Según los sujetos intervinientes**: business to business vs business to consumer
+2. **Según el tracto contractual**: el contrato se lleva a cabo 100% por Internet vs mayoritariamente por Internet pero en ciertas etapas de forma presencial
+3. **Según la forma de manifestación de voluntad**: simultaneidad en las oferta y la aceptación vs éstas se encuentran separadas por un período de tiempo.
+
+### Competencia internacional y cláusulas de prórroga de competencia
+
+La contratación electrónica plantea desafíos en la determinación de la competencia jurisdiccional para resolver conflictos contractuales. Este tipo de relación, establecida a través de medios electrónicos, no solo enfrenta el problema de la distancia física entre las partes, sino también la separación causada por la red distribuida que gestiona la expresión de voluntad en los servidores.
+
+En cuanto a la jurisdicción en los contratos electrónicos, es común incluir cláusulas que favorecen a un tribunal específico, generalmente el del domicilio de la parte que estableció los términos del acuerdo. Sin embargo, si esto deja a la otra parte en desventaja legal, la cláusula puede ser considerada inválida en Argentina. La jurisprudencia argentina ha sido amplia en cuanto a aceptar la jurisdicción nacional en contratos internacionales, permitiendo que cualquier lugar donde se cumplan las obligaciones en Argentina sea suficiente para establecer la jurisdicción.
+
+En cuanto a la ley aplicable, se usa el principio de autonomía de la voluntad, pero con excepciones importantes como fraude, orden público internacional y la protección de partes más débiles. Si no se establece una ley aplicable, se recurren a normas supletorias, como el lugar de cumplimiento del contrato o el lugar de celebración del contrato si no se puede determinar lo anterior.
+
+La prórroga de competencia a favor de un tribunal específico es común, pero puede ser impugnada si se demuestra un abuso de poder por parte de la parte que redactó el acuerdo. Si no se acuerda una prórroga o si es declarada nula, la demanda puede ser presentada en Argentina si el deudor tiene domicilio en el país o si el contrato debe cumplirse en Argentina.
+
+### Derecho comparado
+
+En términos de derecho comparado, en algunos países como Estados Unidos y Canadá, los tribunales pueden rechazar la ley elegida por las partes si no tiene una relación razonable con el contrato. Esto refleja una tendencia a proteger a las partes más débiles y evitar fraudes​.
+
+### Manifestación de volunta
+
+Existen 2 formas principales de manifestación de voluntad en un contrato electrónico:
+
+**Los Click and Warp Agreements**: la aceptación se realiza mediante un cuadro de diálogo donde el usuario debe aceptar los términos explícitamente y de forma user-friendly antes de acceder al servicio. La validez de estos acuerdos depende del conocimiento real del usuario sobre el contenido del contrato. Casos judiciales en EE.UU. han validado estos acuerdos si se demuestra que los usuarios pudieron leer los términos antes de aceptar​.
+
+**Los Internet/Browser Agreements**: no es necesario una aceptación expresa, y la mera utilización del servicio implica la aceptación de los términos. Sin embargo, la legalidad de estos acuerdos es debatida, ya que los usuarios a menudo no leen los términos y condiciones antes de utilizar el servicio.
+
+### Medios de pago
+
+Los medios de pago electrónicos incluyen cualquier método que utilice una red de computadoras para realizar pagos. Aunque es posible realizar pagos tradicionales, estos son engorrosos para transacciones en línea.
+
+Las tarjetas de crédito son comunes, pero presentan riesgos de seguridad y problemas de acreditación de pagos. Para solucionar estos problemas, se utilizan sistemas de seguridad como SSL y SET, que cifran las comunicaciones y protegen los datos financieros de los usuarios.
+
+También es común hoy en día utilizar criptoactivos, que son una red autónoma basada en criptografía respaldada por consenso, pero sin respaldo real en ningún banco. Involucran anonimato y en ciertos casos lavado de dinero.
+
 ---
 
 <h1 align="center">Tema 9 - Bancos de datos</h1>
