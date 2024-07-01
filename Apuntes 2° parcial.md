@@ -609,8 +609,133 @@ Prisión de 1 mes a 2 años y además, si el culpable es funcionario público, p
 
 ---
 
-<h1 align="center">Tema 11 - Poder Judicial</h1>
+<h1 align="center">Tema 11 - Pericias</h1>
 
----
+## Estructura del Poder Judicial
 
-<h1 align="center">Tema 12 - Pericias</h1>
+Un régimen federal implica la existencia de un doble sistema judicial: **federal y local**. Sobre ambos se encuentra la Corte Suprema.
+
+### Justicia Federal
+
+Está fundamentada en los artículos 108, 116 y 117 de la Constitución Nacional.
+
+Posee 3 características principales:
+
+-   **Excepcional**: esta jurisdicción solo se usa en caso de ley o norma constitucional expresa.
+-   **Excluyente**: los jueces provinciales no pueden actuar en estas causas.
+-   **Improrrogable**: excepto en el caso de competencia en razón de personas.
+
+Las **causas civiles** son aquellas regidas por el derecho privado. Las que involucran al derecho administrativo y derecho penal **no son causas civiles**.
+
+La competencia federal nace en función de **el territorio**, **la materia** y las **personas involucradas**. Si alguna de cualquiera de las 3 condiciones se da, se habilita la competencia federal.
+
+### Por el territorio
+
+Se trata federalmente si los hechos de la causa acontecieron en territorios con jurisdicción federal, como por ejemplo las Universidades Nacionales.
+
+#### Por la materia
+
+Estas son las causas que versan sobre puntos regidos directamente por:
+
+1. La Constitución Nacional
+2. Las Leyes Federales
+3. Los Tratados Internacionales
+
+Si la causa no involucra ninguna de estas cosas, entonces la competencia es provincial y no federal.
+
+#### Por las personas involucradas
+
+En los casos de causa civil entre los distintos sujetos:
+
+1. El Estado Federal es demandado o demandante
+2. Conflictos entre provincias
+3. Conflictos entre vecinos de distintas provincias
+
+### Justicia Local
+
+Es la justicia establecida por las provincias en función de sus constituciones y regida por sus procedimientos.
+
+En la prov. de Buenos Aires se divide por **el lugar** y por **la materia**.
+
+En razón del lugar: la provincia se divide en departamentos judiciales que abarcan varios partidos. Los hechos de un partido se discuten en tribunales de la ciudad sede del departamento judicial asignado a ese partido. **Esta competencia es prorrogable**.
+
+En razón de la materia: dentro de cada departamento judicial, las causas se dividen en función de la especialización de los distintos juzgados. **Esta competencia es improrrogable**.
+
+El orden judicial provincial es: Suprema Corte Provincial → Cámara de Apelaciones → Tribunal de 1° instancia
+
+### Funcionarios del poder judicial
+
+#### Jueces
+
+Funcionario que juzga determinada clase de conflictos ya sea por su cuenta o teniendo en consideración lo resuelto por otros funcionarios previamente.
+
+Poseen las siguientes **características**:
+
+1. **Permanentes**: nadie puede ser juzgado por comisiones especiales, solo por un juez.
+2. **Sedentarios**: el cargo está restringido territorialmente al departamento judicial del cargo.
+3. **Inamovibles**: duran en su puesto hasta que son removidos por causa justificada.
+4. **Letrados**: todos los jueces son abogados con título.
+
+Poseen las siguientes **obligaciones**:
+
+1. Obligación de resolver el caso, no pudiendose excusar de ninguna forma.
+2. Obligación de asistir a las audiencias cuando lo marca la ley o lo piden las partes.
+3. Obligación de justificar todas sus decisiones en el proceso judicial.
+4. No puede decidir sobre temas no propuestos por las partes, ni tampoco dictar una sentencia mayor a lo solicitado por las partes.
+5. Debe residir (domicilio) en el radio del juzgado.
+6. Los jueces de primera instancia deben concurrir al juzgado todos los dias, los de cámara los dias que se firman las sentencias.
+
+#### Ministerio público
+
+Conjunto de funcionarios que defienden los intereses vinculados al orden público y social. Son independientes de los juzgados y a diferencia de los jueces, no deciden si no que se interponen ciertas pretensiones y controlan el cumplimiento de los requisitos legales.
+
+Hay 3 clases, fiscal, pupilar y defensor de pobres y ausentes.
+
+#### Secretario
+
+Auxiliar judicial que ordena y custodia los expedientes. Deben ser Argentinos nacionalizados, ser abogados y no ser parientes del juez.
+
+#### Ujier
+
+Realiza las notificaciones y embargos correspondientes a los juzgados superiores (cámara y corte suprema).
+
+### Proceso
+
+El proceso judicial es el conjunto de actos que crean una norma individual destinada a regir la conducta de sujetos.
+
+Se clasifican en Universales y Singulares. Los Singulares se dividen por su contenido en voluntarios y contenciosos, y por su finalidad en conocimiento, ejecución, cautelares.
+
+1. **Procesos voluntarios**: procesos sin controversia, simples.
+2. **Procesos contenciosos**: buscan resolver dos o más intereses en conflicto.
+3. **Procesos de conocimiento**: buscan que el órgano jurisdiccional dilucide y declare el contenido y alcance de la situación jurídica existente entre las partes.
+4. **Procesos de ejecución**: buscan que el órgano jurisdiccional modifique una situación de hecho, para que coincida con un mandato legal determinado.
+5. **Procesos cautelares**: procesos instrumentales diseñados para asegurar el resultado de un procedimiento posterior.
+
+### Prueba
+
+Son modos u operaciones que, referidos a cosas o personas, son susceptibles de proporcionar un dato demostrativo de la existencia o inexistencia de uno o más hechos.
+
+La prueba recae sobre los hechos y no sobre el derecho. Estos hechos deben ser controvertidos y/o conducentes.
+
+La prueba la solicitan las partes, aunque a veces los jueces también.
+
+### Peritos
+
+Auxiliar del juez llamados a informar a éste sobre las consecuencias que, objetivamente y de acuerdo a su expertise, deben extraerse de los hechos.
+
+| Testigo                                                       | Perito                                                                        |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Cuenta lo que percibió con sus sentidos                       | Formula conclusiones derivadas de deducción                                   |
+| Los hechos son anteriores al proceso e independientes de éste | Los hechos percibidos son posteriores al proceso y ocurren en función de éste |
+| No necesita conocimientos especiales                          | Debe ser experto en la materia de la que informa                              |
+| Es único e irremplazable                                      | Puede ser reemplazado por otro experto del mismo área                         |
+
+#### Peritos informáticos
+
+En Buenos Aires deben tener título habilitante. Además:
+
+1. Deben anotarse en listados correspondientes en la Cámara de Apelaciones de cada departamento judicial.
+2. Vivir en la ciudad del juzgado.
+3. Cursar y aprobar los cursos que dicta la Suprema Corte Bonaerense.
+
+## Pericias
