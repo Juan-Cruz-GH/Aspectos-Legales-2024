@@ -266,7 +266,7 @@ Una opinión sostiene que los ISP son como editores, ya que proporcionan el sopo
 
 Otra perspectiva compara a los ISP con los dueños de librerías, señalando que es imposible controlar toda la información que los usuarios suben a los servidores. Esta última postura es la que prevalece en el derecho comparado. Por ejemplo, la Directiva Europea 2000/31 establece que los proveedores de hosting **no son responsables mientras no tengan conocimiento efectivo de actividad ilegal**. De manera similar, la Communications Decency Act de Estados Unidos **otorga inmunidad a los proveedores de hosting** en su sección 230, negando que sean considerados editores.
 
-**Los tribunales han determinado que los ISP solo son responsables si, sabiendo de la actividad ilegal, no toman las medidas necesarias para detenerla**. Por ejemplo, la Corte Suprema del Estado de Nueva York encontró culpable a BUFFNET, un ISP en Búfalo, por no actuar tras ser notificado de que uno de sus newsgroups distribuía pornografía infantil. Además, en el caso Fair Housing Council Of San Fernando Valley v Roommates.com, una corte federal de apelaciones responsabilizó a un sitio web por el contenido subido por sus usuarios, considerando que el sitio asumía el rol de editor y debía responder por los daños causados por la actividad ilegal de sus usuarios.
+**Los tribunales han determinado que los ISP solo son responsables si, sabiendo de la actividad ilegal, no toman las medidas necesarias para detenerla**. Por ejemplo, la Corte Suprema del Estado de Nueva York encontró culpable a BUFFNET, un ISP en Búfalo, por no actuar tras ser notificado de que uno de sus newsgroups distribuía p**\***grafía infantil. Además, en el caso Fair Housing Council Of San Fernando Valley v Roommates.com, una corte federal de apelaciones responsabilizó a un sitio web por el contenido subido por sus usuarios, considerando que el sitio asumía el rol de editor y debía responder por los daños causados por la actividad ilegal de sus usuarios.
 
 ### Situación en Argentina: caso Jujuy.com
 
@@ -542,6 +542,70 @@ La responsabilidad penal se refiere a las sanciones impuestas por el sistema jud
 ---
 
 <h1 align="center">Tema 10 - Delitos informáticos</h1>
+
+## Ley de Delitos Informáticos en Argentina
+
+### Introducción
+
+Esta es una ley fundamental que se aprobó por ambas cámaras del congreso en el año 2007. Fue de alta importancia y relevancia debido al rápido incremento y gran variedad de delitos informáticos que fueron surgiendo a través del tiempo desde el nacimiento de las computadoras modernas y sobre todo Internet. Algunos de los más comunes: virus informáticos, estafas informáticas, ataques DDoS, pero hay muchos más.
+
+Esta ley no es una ley especial, pero modifica al código penal. La Ley contempla una serie de delitos con sus respectivas penas:
+
+### Acceso ilegítimo a un sistema informático (hacking)
+
+Se sanciona a quien acceda, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido.
+
+Los pentesters están protegidos.
+
+No incluye a la ingeniería inversa ni a la violación de DRM.
+
+Prisión de **quince días a 6 meses** o de **1 mes a 1 año** si el acceso se realiza en perjuicio de un organismo público estatal, un proveedor de servicios públicos o financieros.
+
+### Daño informático
+
+Este delito abarca la destrucción, alteración, inutilización o supresión de datos, programas o sistemas informáticos.
+
+Prisión de 6 meses a 4 años.
+
+### Estafa informática
+
+Se sanciona la alteración o manipulación de un sistema informático para defraudar o manipular a alguien, comunmente con el fin de ganar dinero.
+
+Por ejemplo ingeniería social y phising.
+
+Prisión de 1 mes a 6 años.
+
+### Distribución de virus informáticos
+
+Se refiere a la creación, difusión o introducción de programas maliciosos (virus, gusanos, etc.) que alteren el funcionamiento de sistemas informáticos.
+
+Prisión de 1 mes a 3 años.
+
+### Falsificación de documentos digitales
+
+Incluye la creación, alteración o supresión de documentos electrónicos con el propósito de engañar.
+
+Las penas varían según la gravedad del caso, pero son similares a las penas de falsificación de documentos tradicionales.
+
+### Interrupción de correspondencia digital
+
+Sanciona la intromisión, interceptación, divulgación o alteración de correos electrónicos y otras formas de comunicación digital sin el consentimiento del destinatario.
+
+Prisión de 15 dias a 6 meses.
+
+### Distribución de p\*\*\*\*grafía infantil
+
+Penaliza la producción, distribución, difusión y almacenamiento de material p\*\*\*\*gráfico infantil.
+
+La responsabilidad de atrapar a estos criminales son los ISP. Estos criminales suelen usar redes P2P y memoria caché.
+
+Prisión de 6 meses a 4 años para distribución; 4 meses a 2 años para posesión; 1 mes a 3 años para facilitación del contenido a menores.
+
+### Delitos sobre Bancos de Datos
+
+Incluye acceder de forma no autorizada a un banco de datos, exponer la información del mismo a terceros, y agregar, borrar o modificar los registros de la base de datos.
+
+Prisión de 1 mes a 2 años y además, si el culpable es funcionario público, pena de inhabilitación especial de 1 a 4 años.
 
 ---
 
