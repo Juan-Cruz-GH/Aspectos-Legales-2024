@@ -29,12 +29,12 @@
    a. La utilización de la licencia GPL
    b. El carácter gratuito del contrato
    c. El acceso en el código fuente
-   **c?**
+   **c.**
 7. Si un programa que llama a una biblioteca licenciada mediante LGPL implica que
    a. La biblioteca debe licenciarse con la licencia del programa principal
    b. Se mantiene la independencia de ambos programas
    c. El programa principal debe licenciarse con la licencia de la biblioteca
-   **b?**
+   **b.**
 
 ---
 
@@ -69,17 +69,17 @@
    a. Integridad y confidencialidad
    b. Confidencialidad y autoría
    c. Autoría e integridad
-   **c?.**
+   **c.**
 7. Según el Fallo Belen Rodriguez, la responsabilidad de los buscadores y hostings es
    a. Subjetiva
    b. Objetiva
    c. No lo define
-   **a?.**
+   **a.**
 8. El click and warp agreement tiene como requisito
    a. El acceso a los términos y condiciones que se va a aceptar
    b. El uso de firma digital
    c. La existencia de claúsulas predispuestas
-   **a?.**
+   **a.**
 
 ---
 
@@ -113,27 +113,27 @@
 6. El número de teléfono es un dato mínimo de identificación de una persona
    a. Verdadero
    b. Falso
-   **b?.**
+   **b.**
 7. Los datos médicos no pueden ser recolectados por particulares por principio general
    a. Verdadero
    b. Falso
-   **a?.**
+   **a.**
 8. Los datos disociados se rigen por la ley de bancos de datos
    a. Verdadero
    b. Falso
-   **a?.**
+   **a.**
 9. Ley de bancos de datos guarda silencio sobre la responsabilidad civil de los titulares de bancos de datos
    a. Verdadero
    b. Falso
-   **b?.**
+   **a.**
 10. Los datos sensibles no pueden ser recolectados salvo excepciones previstas por la ley
     a. Verdadero
     b. Falso
-    **a?.**
+    **a.**
 11. No es necesaria la autorización para recabar los datos si tacitamente el titular de los datos presta su conformidad
     a. Verdadero
     b. Falso
-    **b?.**
+    **b.**
 
 ---
 
@@ -168,11 +168,11 @@
    a. No esta penada
    b. Es una figura atenuada de la tenencia con fines de distribución
    c. Se asimila a la tenencia y comercialización
-   **b?.**
+   **b.**
 7. El delito de acceso no autorizado tiene como caracteristica
    a. Solo se aplica a sistemas informáticos dedicados a servicios públicos
    b. Se puede configurar tanto por culpa como por dolo
    c. Es un delito subsidiario: Solo se configura si no se comete otro delito previsto en el código  
-   **b?.**
+   **c.**
 
 ---
